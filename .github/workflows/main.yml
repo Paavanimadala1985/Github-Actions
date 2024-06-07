@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run a sample Github Action
-      - run: echo "this workflow run successfully"
+        run: echo "this workflow run successfully"
       
